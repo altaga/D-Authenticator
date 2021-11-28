@@ -67,7 +67,7 @@ class Nft extends Component {
                     this.unirest('GET', `https://deep-index.moralis.io/api/v2/${addr}?chain=mumbai`)
                         .headers({
                             'accept': 'application/json',
-                            'X-API-Key': 'm9N2QaqpjstRatg7qJFFMebq6qrggD1jSpsV0NlnelPOKd4wp3wvGNV5T7xC5kUF'
+                            'X-API-Key': 'XXXXXXXXXXXX'
                         })
                         .end(function (res) {
                             if (res.error) throw new Error(res.error);
