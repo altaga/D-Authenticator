@@ -51,6 +51,6 @@ More Details [Scan](./WebPage/src/pages/scan.js)
         })
     });
 
-- Here is an Screen shot of our NFT.Storage service
+- Here is a Screen shot of our NFT.Storage service
 
 <img src="https://i.ibb.co/pwxkPHC/image.png">
