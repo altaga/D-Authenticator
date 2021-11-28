@@ -4,13 +4,12 @@
 
 ## IPFS/Filecoin:
 
-Utilizamos IPFS para el almacenamiento de la metadata y los archivos de imaganes de los NFT.
+We use IPFS for the storage of metadata and NFT image files.
+This for the process of uploading the image from the website to NFT.storage, which is our main storage service.
 
-- Para el proceso de subir la imagen desde la pagina web a NFT.storage, el cual es nuestro servicio principal para almacenamiento. 
+This is the code on the server to upload the NFT.More details on:
 
-Este es el codigo en el server para subir el NFT.
-
-Mas detalles en [Server](./Server/serverv3.js)
+More details on: [Server](./Server/serverv3.js)
 
         let nft = req.files.nft;
         let my_date = Date.now();
@@ -33,9 +32,9 @@ Mas detalles en [Server](./Server/serverv3.js)
         }
         let metadata = await clientnft.store(premetadat)
 
-- Para acceder a estos datos utilizamos un RPC provider de Moralis, obteniendo los datos del NFT directamente desde el SmartContract.
+- To access this data we use a Moralis RPC provider, obtaining the NFT data directly from the Smart Contract.
 
-Mas detalles [Scan](./WebPage/src/pages/scan.js)
+More Details [Scan](./WebPage/src/pages/scan.js)
 
     this.unirest('GET', `https://deep-index.moralis.io/api/v2/nft/${addr}?chain=mumbai&format=hex&order=DESC`)
     .headers({
@@ -52,6 +51,6 @@ Mas detalles [Scan](./WebPage/src/pages/scan.js)
         })
     });
 
-- Aqui un Screen shot de nuestro servicio de NFT.Storage
+- Here is an Screen shot of our NFT.Storage service
 
 <img src="https://i.ibb.co/pwxkPHC/image.png">
