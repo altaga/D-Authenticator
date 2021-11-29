@@ -1,8 +1,43 @@
 # D-Authenticator
 
-Hacer guia de uso--------------
+Welcome everyone we are D-Authenticator
+
+# Introduction
+
+The online market for luxury, clothing, sneakers, watches and electronics is huge, and will continue to grow and its assets have really appreciated. (pones una imagen de una madre que esté bien pinche cara sin ser originalmente tan cara)
+
+But the number of problems has also grown. Although companies such as Goat and Stockx have gone to great lengths to combat the Fakes market, meaning reproductions sometimes great fake reproductions of a certain asset, they rely on legacy systems and a huge operation to do so (aqui puedes poner videos de la fabrica de stockx). 
+
+
+And the buyer has also become more and more sophisticated, asking for better and better systems. 
+
+If only we could use some kind of technology to authenticate and provide non-fungible ownership to those buyers.
+
+Enter D-authenticator, we NFTize collectibles, sneakers, watches and more providing another layer of security and confidence in that process of buying and selling products.
+speech.
+
+# Solution 
+
+Here is the system's Architecture:
+
+<img src="https://i.ibb.co/pWt1KMb/esquemabueno.png">
+
 
 # Technology stack
+
+## Polygon 
+
+Polygon is the base for Minting, buying, trading and everything Smart Contracts on our platform. It bring us great EVM compatibility.
+
+<img src="https://i.ibb.co/wzsjPLM/polygon.png">
+
+
+## Alchemy
+
+Alchemy is used for all the smart contract interactions such as metadata and some variables are managed through it.
+
+<img src="https://es.crypto-economy.com/wp-content/uploads/sites/2/2021/07/polygon-2-1024x576-1.jpg">
+
 
 ## IPFS/Filecoin:
 
