@@ -31,6 +31,8 @@ Here is the system's Architecture:
 
 <img src="https://i.ibb.co/pWt1KMb/esquemabueno.png">
 
+Our webpage is made on React, Polygon works as the main focus as it is the manager of smart contracts and EVM compatibility. In turn, alchemy manages its interactions with the webpage and Metamask works as our way of signing said contracts and providing the gas to mint them. Management of the front end and some API calls are done through Moralis' APIs and also the QR code metadata upload. On the storage side we use IPFS/Filecoin in adition with NFT.storage to store our NFT data securely and resiliently and also we use some of their API's to call the CID back.
+
 
 # Technology stack
 
