@@ -1,6 +1,13 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://www.d-authenticator.online/) [<img src="https://img.shields.io/badge/View-Video-red">](https://www.youtube.com/watch?v=Q0_sihBl1NI)
+
+#### Live: https://www.d-authenticator.online/
+### Main Video!: https://www.youtube.com/watch?v=Q0_sihBl1NI
+
 # D-Authenticator
 
-Welcome everyone we are D-Authenticator
+Welcome everyone, we are D-Authenticator
+
+A platform and Marketplace where you can NFTize offline assets such as collectibles, sneakers, watches and more.
 
 # Introduction
 
