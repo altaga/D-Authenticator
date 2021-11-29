@@ -50,9 +50,6 @@ Alchemy is used for all the smart contract interactions such as metadata and som
 
 ## IPFS/Filecoin:
 
-
-Explicar cada uno de estos snippets-------------------
-
 We use IPFS for the storage of metadata and NFT image files.
 This for the process of uploading the image from the website to NFT.storage, which is our main storage service. Apart from that we use it to link to our smart contracts in order to Mint that off-chain real asset.
 
