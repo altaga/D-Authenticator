@@ -45,7 +45,7 @@ Polygon is the base for Minting, buying, trading and everything Smart Contracts 
 
 Alchemy is used for all the smart contract interactions such as metadata and some variables are managed through it.
 
-<img src="https://es.crypto-economy.com/wp-content/uploads/sites/2/2021/07/polygon-2-1024x576-1.jpg">
+<img src="https://es.crypto-economy.com/wp-content/uploads/sites/2/2021/07/polygon-2-1024x576-1.jpg" width="400">
 
 
 ## IPFS/Filecoin:
