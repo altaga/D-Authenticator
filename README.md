@@ -11,7 +11,7 @@ A platform and Marketplace where you can NFTize offline assets such as collectib
 
 # Introduction
 
-The online market for luxury, clothing, sneakers, watches and electronics is huge, and will continue to grow and its assets have really appreciated. (pones una imagen de una madre que esté bien pinche cara sin ser originalmente tan cara)
+The online market for luxury, clothing, sneakers, watches and electronics is huge, and will continue to grow and its assets have really appreciated. 
 
 But the number of problems has also grown. Although companies such as Goat and Stockx have gone to great lengths to combat the Fakes market, meaning reproductions sometimes great fake reproductions of a certain asset, they rely on legacy systems and a huge operation to do so.
 
