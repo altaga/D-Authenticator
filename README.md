@@ -23,7 +23,7 @@ And the buyer has also become more and more sophisticated, asking for better and
 If only we could use some kind of technology to authenticate and provide non-fungible ownership to those buyers.
 
 Enter D-authenticator, we NFTize collectibles, sneakers, watches and more providing another layer of security and confidence in that process of buying and selling products.
-speech.
+
 
 # Solution 
 
