@@ -102,3 +102,11 @@ More Details [Scan](./WebPage/src/pages/scan.js)
 - Here is a Screen shot of our NFT.Storage service
 
 <img src="https://i.ibb.co/pwxkPHC/image.png">
+
+# References
+
+(1) About the luxury goods Market: https://www.consultancy.eu/news/5261/global-luxury-goods-market-rewinds-six-years-amid-corona-pandemic
+
+(2) Stockx: https://stockx.com/about/how-it-works/
+
+(3) GOAT: https://www.goat.com/editorial
